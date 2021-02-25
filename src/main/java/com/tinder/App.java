@@ -21,7 +21,7 @@ public class App {
         try {
             port = Integer.parseInt(System.getenv("PORT"));
         } catch (NumberFormatException e) {
-            port = 5000;
+            port = 8080;
         }
 
         Server server = new Server(port);
