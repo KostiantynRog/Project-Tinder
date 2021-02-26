@@ -1,1 +1,1 @@
-web: java -jar target/Project-Tinder-jar-with-dependencies.jar
+web: java -jar target/secret-dawn-43923-jar-with-dependencies.jar
