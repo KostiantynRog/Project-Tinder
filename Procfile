@@ -1,0 +1,1 @@
+web: java -jar target/project-tinder-jar-with-dependencies.jar
