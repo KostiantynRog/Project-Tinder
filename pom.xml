@@ -50,7 +50,7 @@
                     <descriptorRefs>
                         <descriptorRef>jar-with-dependencies</descriptorRef>
                     </descriptorRefs>
-                    <finalName>tinderapp</finalName>
+                    <finalName>project_tinder</finalName>
                 </configuration>
                 <executions>
                     <execution>
