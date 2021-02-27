@@ -1,1 +1,1 @@
-web: java -jar target/project_tinder-jar-with-dependencies.jar
+web: java $JAVA_OPTS -cp ./target/classes:target/deps/* com.tinder.App
